@@ -291,7 +291,7 @@ We'll be really happy if you sent us links to your projects where you use our co
 
 ## License
 
-    Copyright 2019-2021,
+    Copyright 2018-2019,
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
