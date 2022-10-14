@@ -1,0 +1,4 @@
+#Fri Oct 14 14:41:33 IST 2022
+base.0=C\:\\Users\\TechnoTouch\\Downloads\\ImagePicker-master\\ImagePicker-master\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

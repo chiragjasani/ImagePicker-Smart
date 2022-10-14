@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.github.chiragjasani105.imagepicker.sample-mergeDebugResources-37:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TechnoTouch\\.gradle\\caches\\transforms-3\\484c0ab9a04a47d05adfee5dab9b12d3\\transformed\\material-1.6.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

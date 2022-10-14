@@ -1,0 +1,361 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] C:\Users\TechnoTouch\.gradle\caches\transforms-3\0b6a7f25051c79d256953a0444fbd6eb\transformed\jetified-fragment-ktx-1.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\484c0ab9a04a47d05adfee5dab9b12d3\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\TechnoTouch\.gradle\caches\transforms-3\1d4013317ea1316ffefa9cc5bb6bd29c\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\345205ec4d9aa3a54aa344470e4e9658\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e9e8e59296fe4946f39822091e414deb\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\528bdae567c37f4db729969f55790599\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\96aea34f198cc24bf4b9f009467b0d85\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3166fa50ef70971c0c7f9417beda9aad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\TechnoTouch\.gradle\caches\transforms-3\013f70b8a9d7c763959ce1066d2796c4\transformed\fragment-1.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\d94f343cd6b61b0e8a0e249b43faec42\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3babe4b0c610c39e0ce9e563ad5e4606\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\07ef0cdd74ff3519d7fafdd63152eafd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\650e1294b4187b8f78fee516fcdfcd12\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\6055303d98bec66417616c44e54530fd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\5400f1bb4c79e0f8c97e646b660afdaa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\df73f8e94633afe8d403d525e838e27c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\469535f5c942f9e26988d78b5133e984\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\164b17388bb6425cfaedbd3f51bff3b1\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\12cc6a701176ec5de5cc8812d64b6d31\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\21460222a04a4b91857f753f877e98d7\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ed185f77d7885fa668beebc00b90f491\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\24c162695abd117608ec58965f178675\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\90d41c921c106a85afb78b24b23dc8e2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\6bc85660373187efc6165ddeee5505ab\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ea4a023e500b9c9d528c96355d12fd74\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3a5ed768deb750918143ba42a87b3b5f\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\712c05cd487435ca9c1c6e23f3226c6e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c85c00cec6c1ae7df12cc574c59a0781\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\660a749f9972b2877bf34fc8afef130e\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c06dc01aa7d616aeb5e59f1e2984cedc\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f8a2427acc1e7970f64ac244371556a1\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\bbf48aa0ad0eb093f551ade8842192d2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e0e840945d0d40cd78b0aeda8dd3dcea\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\97ef80ac0f100add5e0d7f2a4868cf0a\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.4] C:\Users\TechnoTouch\.gradle\caches\transforms-3\9728fc5399858242f79d8f421c278b98\transformed\exifinterface-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\b2e0a0823395b656b3dddca6b2ea4025\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f99428dc2d817362d5a2edfa5170c8d4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c58a1fa1cb614b0f6b8b2f71472519a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\7d3d0be3de00852eaae2ee500ebc2c9f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f42397763d562fb2c02f0be93f512c75\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\49d25d3901a343b2dec259c52650268d\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\75b42a3df5448ac31be2e3a4d3c23b76\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\bec5e2f7f48f55ca550d2ed4310eb1be\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3289e99044c1ec9d58e3152802b936e0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\2e3454ff347dbe9e6231298c67b6e826\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\61708e02884b85f1e13a985fbcc498c0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\10baf104cafc0fe5e48279a362765e4c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:4:5-60
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:6:5-36:19
+MERGED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-40:19
+MERGED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-40:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\484c0ab9a04a47d05adfee5dab9b12d3\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\484c0ab9a04a47d05adfee5dab9b12d3\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e9e8e59296fe4946f39822091e414deb\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e9e8e59296fe4946f39822091e414deb\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\96aea34f198cc24bf4b9f009467b0d85\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\96aea34f198cc24bf4b9f009467b0d85\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c58a1fa1cb614b0f6b8b2f71472519a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c58a1fa1cb614b0f6b8b2f71472519a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\49d25d3901a343b2dec259c52650268d\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\49d25d3901a343b2dec259c52650268d\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:8:9-42
+	android:icon
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:12:9-40
+activity#com.github.chiragjasani105.imagepicker.sample.MainActivity
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:15:13-45
+	android:exported
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:14:13-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:20:27-74
+activity#com.github.chiragjasani105.imagepicker.sample.SampleActivity
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:24:9-34:20
+	android:label
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:26:13-45
+	android:exported
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:29:13-36
+	tools:ignore
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:28:13-40
+	android:theme
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:25:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:30:13-33:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:32:27-73
+uses-sdk
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+MERGED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] C:\Users\TechnoTouch\.gradle\caches\transforms-3\0b6a7f25051c79d256953a0444fbd6eb\transformed\jetified-fragment-ktx-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.3] C:\Users\TechnoTouch\.gradle\caches\transforms-3\0b6a7f25051c79d256953a0444fbd6eb\transformed\jetified-fragment-ktx-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\484c0ab9a04a47d05adfee5dab9b12d3\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\484c0ab9a04a47d05adfee5dab9b12d3\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\TechnoTouch\.gradle\caches\transforms-3\1d4013317ea1316ffefa9cc5bb6bd29c\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\TechnoTouch\.gradle\caches\transforms-3\1d4013317ea1316ffefa9cc5bb6bd29c\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\345205ec4d9aa3a54aa344470e4e9658\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\345205ec4d9aa3a54aa344470e4e9658\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e9e8e59296fe4946f39822091e414deb\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e9e8e59296fe4946f39822091e414deb\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\528bdae567c37f4db729969f55790599\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\528bdae567c37f4db729969f55790599\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\96aea34f198cc24bf4b9f009467b0d85\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\96aea34f198cc24bf4b9f009467b0d85\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3166fa50ef70971c0c7f9417beda9aad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3166fa50ef70971c0c7f9417beda9aad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\TechnoTouch\.gradle\caches\transforms-3\013f70b8a9d7c763959ce1066d2796c4\transformed\fragment-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.3] C:\Users\TechnoTouch\.gradle\caches\transforms-3\013f70b8a9d7c763959ce1066d2796c4\transformed\fragment-1.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\d94f343cd6b61b0e8a0e249b43faec42\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\d94f343cd6b61b0e8a0e249b43faec42\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3babe4b0c610c39e0ce9e563ad5e4606\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3babe4b0c610c39e0ce9e563ad5e4606\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\07ef0cdd74ff3519d7fafdd63152eafd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\07ef0cdd74ff3519d7fafdd63152eafd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\650e1294b4187b8f78fee516fcdfcd12\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\650e1294b4187b8f78fee516fcdfcd12\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\6055303d98bec66417616c44e54530fd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\6055303d98bec66417616c44e54530fd\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\5400f1bb4c79e0f8c97e646b660afdaa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\5400f1bb4c79e0f8c97e646b660afdaa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\df73f8e94633afe8d403d525e838e27c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\df73f8e94633afe8d403d525e838e27c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\469535f5c942f9e26988d78b5133e984\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\469535f5c942f9e26988d78b5133e984\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\164b17388bb6425cfaedbd3f51bff3b1\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\164b17388bb6425cfaedbd3f51bff3b1\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\12cc6a701176ec5de5cc8812d64b6d31\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\12cc6a701176ec5de5cc8812d64b6d31\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\21460222a04a4b91857f753f877e98d7\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\21460222a04a4b91857f753f877e98d7\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ed185f77d7885fa668beebc00b90f491\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ed185f77d7885fa668beebc00b90f491\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\24c162695abd117608ec58965f178675\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\24c162695abd117608ec58965f178675\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\90d41c921c106a85afb78b24b23dc8e2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\90d41c921c106a85afb78b24b23dc8e2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\6bc85660373187efc6165ddeee5505ab\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\6bc85660373187efc6165ddeee5505ab\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ea4a023e500b9c9d528c96355d12fd74\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ea4a023e500b9c9d528c96355d12fd74\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3a5ed768deb750918143ba42a87b3b5f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3a5ed768deb750918143ba42a87b3b5f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\712c05cd487435ca9c1c6e23f3226c6e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\712c05cd487435ca9c1c6e23f3226c6e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c85c00cec6c1ae7df12cc574c59a0781\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c85c00cec6c1ae7df12cc574c59a0781\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\660a749f9972b2877bf34fc8afef130e\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\660a749f9972b2877bf34fc8afef130e\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c06dc01aa7d616aeb5e59f1e2984cedc\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c06dc01aa7d616aeb5e59f1e2984cedc\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f8a2427acc1e7970f64ac244371556a1\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f8a2427acc1e7970f64ac244371556a1\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\bbf48aa0ad0eb093f551ade8842192d2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\bbf48aa0ad0eb093f551ade8842192d2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e0e840945d0d40cd78b0aeda8dd3dcea\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\e0e840945d0d40cd78b0aeda8dd3dcea\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\97ef80ac0f100add5e0d7f2a4868cf0a\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\97ef80ac0f100add5e0d7f2a4868cf0a\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.4] C:\Users\TechnoTouch\.gradle\caches\transforms-3\9728fc5399858242f79d8f421c278b98\transformed\exifinterface-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.4] C:\Users\TechnoTouch\.gradle\caches\transforms-3\9728fc5399858242f79d8f421c278b98\transformed\exifinterface-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\b2e0a0823395b656b3dddca6b2ea4025\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\b2e0a0823395b656b3dddca6b2ea4025\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f99428dc2d817362d5a2edfa5170c8d4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f99428dc2d817362d5a2edfa5170c8d4\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c58a1fa1cb614b0f6b8b2f71472519a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c58a1fa1cb614b0f6b8b2f71472519a5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\7d3d0be3de00852eaae2ee500ebc2c9f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\7d3d0be3de00852eaae2ee500ebc2c9f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f42397763d562fb2c02f0be93f512c75\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\f42397763d562fb2c02f0be93f512c75\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\49d25d3901a343b2dec259c52650268d\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\49d25d3901a343b2dec259c52650268d\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\75b42a3df5448ac31be2e3a4d3c23b76\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\75b42a3df5448ac31be2e3a4d3c23b76\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\bec5e2f7f48f55ca550d2ed4310eb1be\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\bec5e2f7f48f55ca550d2ed4310eb1be\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3289e99044c1ec9d58e3152802b936e0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\3289e99044c1ec9d58e3152802b936e0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\2e3454ff347dbe9e6231298c67b6e826\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\2e3454ff347dbe9e6231298c67b6e826\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\61708e02884b85f1e13a985fbcc498c0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\61708e02884b85f1e13a985fbcc498c0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\10baf104cafc0fe5e48279a362765e4c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\10baf104cafc0fe5e48279a362765e4c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+queries
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-70
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-79
+	android:name
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:21-76
+activity#com.github.chiragjasani105.imagepicker.ImagePickerActivity
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-25:68
+	android:screenOrientation
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
+	android:theme
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-86
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-29:72
+	android:screenOrientation
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
+provider#com.github.chiragjasani105.imagepicker.ImagePickerFileProvider
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-72
+	android:exported
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-90
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-38:71
+	android:resource
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from [:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:17-67
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\c4abc292fe496c789d3118f4cc20ec42\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.github.chiragjasani105.imagepicker.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.github.chiragjasani105.imagepicker.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

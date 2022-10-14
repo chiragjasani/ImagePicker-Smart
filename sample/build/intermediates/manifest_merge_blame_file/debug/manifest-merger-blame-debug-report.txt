@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.chiragjasani105.imagepicker.sample"
+4    android:versionCode="16"
+5    android:versionName="2.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml
+10
+11    <queries>
+11-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:15
+12
+13        <!-- Query Camera Packages -->
+14        <intent>
+14-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:18
+15            <action android:name="android.media.action.IMAGE_CAPTURE" />
+15-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-73
+15-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:21-70
+16        </intent>
+17        <!-- Query Open Document -->
+18        <intent>
+18-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:18
+19            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+19-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-79
+19-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:21-76
+20        </intent>
+21    </queries>
+22
+23    <permission
+23-->[androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+24        android:name="com.github.chiragjasani105.imagepicker.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+24-->[androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+25        android:protectionLevel="signature" />
+25-->[androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+26
+27    <uses-permission android:name="com.github.chiragjasani105.imagepicker.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+27-->[androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+27-->[androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+28
+29    <application
+29-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:6:5-36:19
+30        android:allowBackup="true"
+30-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:7:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.9.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\175ef0182834c0ea2f5845877b49bd27\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:fullBackupContent="false"
+33-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:8:9-42
+34        android:icon="@drawable/appicon"
+34-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:9:9-41
+35        android:label="@string/app_name"
+35-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:10:9-41
+36        android:supportsRtl="true"
+36-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:11:9-35
+37        android:testOnly="true"
+38        android:theme="@style/AppTheme" >
+38-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:12:9-40
+39        <activity
+39-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:13:9-22:20
+40            android:name="com.github.chiragjasani105.imagepicker.sample.MainActivity"
+40-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:14:13-86
+41            android:exported="true"
+41-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:17:13-36
+42            android:label="@string/app_name"
+42-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:15:13-45
+43            android:theme="@style/AppTheme.NoActionBar" >
+43-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:16:13-56
+44            <intent-filter>
+44-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:18:13-21:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:19:17-69
+45-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:19:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:20:17-77
+47-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:20:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:24:9-34:20
+51            android:name="com.github.chiragjasani105.imagepicker.sample.SampleActivity"
+51-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:25:13-88
+52            android:exported="true"
+52-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:29:13-36
+53            android:label="@string/app_name"
+53-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:26:13-45
+54            android:theme="@style/AppTheme.NoActionBar" >
+54-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:27:13-56
+55            <intent-filter>
+55-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:30:13-33:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:19:17-69
+56-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:19:25-66
+57
+58                <category android:name="android.intent.category.DEFAULT" />
+58-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:32:17-76
+58-->C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\sample\src\main\AndroidManifest.xml:32:27-73
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-25:68
+62            android:name="com.github.chiragjasani105.imagepicker.ImagePickerActivity"
+62-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-86
+63            android:screenOrientation="unspecified"
+63-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
+64            android:theme="@style/Theme.Transparent.ImagePicker" />
+64-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-65
+65        <activity
+65-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-29:72
+66            android:name="com.yalantis.ucrop.UCropActivity"
+66-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
+67            android:screenOrientation="portrait"
+67-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-49
+68            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+68-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-69
+69
+70        <provider
+70-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-39:20
+71            android:name="com.github.chiragjasani105.imagepicker.ImagePickerFileProvider"
+71-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-90
+72            android:authorities="com.github.chiragjasani105.imagepicker.sample.imagepicker.provider"
+72-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-72
+73            android:exported="false"
+73-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-37
+74            android:grantUriPermissions="true" >
+74-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-47
+75            <meta-data
+75-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-38:71
+76                android:name="android.support.FILE_PROVIDER_PATHS"
+76-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:17-67
+77                android:resource="@xml/image_picker_provider_paths" />
+77-->[:imagepicker] C:\Users\TechnoTouch\Downloads\ImagePicker-master\ImagePicker-master\imagepicker\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-68
+78        </provider>
+79        <provider
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+81            android:authorities="com.github.chiragjasani105.imagepicker.sample.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\TechnoTouch\.gradle\caches\transforms-3\ce547e2f78f6eb009b13f964c049d44c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TechnoTouch\.gradle\caches\transforms-3\eb731ee7744f1902a0ae6b6589089115\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>
